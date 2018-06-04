@@ -1,3 +1,4 @@
 class Dog
-  def 
+  def bark
+    puts 
 end
